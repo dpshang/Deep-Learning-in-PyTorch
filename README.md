@@ -10,14 +10,12 @@ Here's a snapshot of the topics and corresponding notebooks available in this re
 
 | Topic            | Notebook Link                                                |
 | ---------------- | ------------------------------------------------------------ |
-| Math Background  | [Gradient Descent and Backpropagation](Link-to-notebook)     |
-| Linear Model     | [Linear Neural Networks](Link-to-notebook)                   |
+| Math Background  | [Gradient Descent and Backpropagation](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/Math%20Background.ipynb) |
+| Linear Model     | [Linear Neural Networks](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/Linear%20Model.ipynb) |
 | CNN              | [Basic CNN, GoogLeNet, and ResNet](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/CNN.ipynb) |
-| Sequential Model | [RNN and LSTM](Link-to-notebook)                             |
-| RNN Classifier   | [RNN Classifier with GRU](Link-to-notebook)                  |
-| GAN              | [GAN, DCGAN, WGAN-GP, cDCGAN](Link-to-notebook)              |
-
-*Please replace `Link-to-notebook` with the actual URLs to your Jupyter notebooks.*
+| Sequential Model | [RNN and LSTM](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/Sequential%20Model.ipynb) |
+| RNN Classifier   | [RNN Classifier with GRU](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/RNN%20Classifier.ipynb) |
+| GAN              | [GAN, DCGAN, WGAN-GP, cDCGAN](https://github.com/dpshang/Deep-Learning-in-PyTorch/blob/main/GAN.ipynb) |
 
 ## Getting Started
 
@@ -34,5 +32,5 @@ Before diving into the content, make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Deep-Learning-in-PyTorch.git
+git clone https://github.com/dpshang/Deep-Learning-in-PyTorch.git
 ```
